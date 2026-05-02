@@ -5,9 +5,5 @@
 ## 🚀 About Me
 Aspiring Data Engineer focused on Python, data processing, and cloud computing.
 
-## 📁 Projects
-- python-data-journey
-- LeetCode
-
 ## 🛠 Tech Stack
-Python | Git | GitHub | VS Code | AWS (learning)
+SQL(PostgreSQL) | Python | Java | Golang | AWS Cloud ☁️ | Docker  | Git |
