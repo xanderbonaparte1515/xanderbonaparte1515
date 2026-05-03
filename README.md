@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DLJAD.jpg" width="100%" />
+  <img src="github12.png" width="100%" />
 </p>
 
 ## 🚀 About Me
