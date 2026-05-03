@@ -6,4 +6,4 @@
 Aspiring Data Engineer focused on Cloud Data, data processing, and cloud computing.
 
 ## 🛠 Tech Stack
-SQL(PostgreSQL) | Python | Java | Golang | AWS Cloud ☁️ | Docker  | Git |
+SQL(Postgres & MySql) | Python | Java | Golang | AWS Cloud ☁️ | Docker  | Git |
